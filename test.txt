@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Cambio en main
+=======
+Cambio en nueva-rama
+>>>>>>> nueva-rama
